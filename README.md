@@ -21,7 +21,7 @@ Medisphere is more than just a telemedicine platform—it’s a complete, patien
 
 
 ## Patient Side##
-✅ AI-powered Symptom Checker
+
 ✅ Doctor suggestions (sorted by rating, location, hospital)
 ✅ Appointment Booking (real-time scheduling & notifications)
 ✅ Doctor-Patient Chat (real-time messaging)
@@ -38,3 +38,15 @@ Medisphere is more than just a telemedicine platform—it’s a complete, patien
 ## Assign weekly tasks to patients##
 ✅ Track patient progress
 ✅ Communicate with patients & doctors
+
+## Future Development
+
+### Symptom-Based Doctor Redirection
+Using AI-powered symptom checking, patients will be redirected to the appropriate specialist. For example, if a patient reports heart-related symptoms, they will be directed to a cardiologist.
+
+### Myth Busters
+Health myths can be extremely dangerous. To combat misinformation, doctors will be able to upload Myth Busters—fact-checked medical insights—so that any patient can access and learn from them.
+
+## Report Management and AI Integration
+All medical reports will be stored in one place for easy access. In the future, by applying the K-Nearest Neighbors (KNN) algorithm, we can suggest relevant Myth Busters to patients based on their medical history and reports.
+
